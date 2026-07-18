@@ -150,7 +150,7 @@
   <g style="animation:reveal .6s ease 1.40s both"><text x="500" y="264" class="lbl">📍  Location</text><text x="640" y="264" class="val">Freiburg im Breisgau, Germany</text></g>
   <g style="animation:reveal .6s ease 1.55s both"><text x="500" y="292" class="lbl">🎓  Education</text><text x="640" y="292" class="val">M.Sc. Computer Science in AI · University of Freiburg</text></g>
   <g style="animation:reveal .6s ease 1.70s both"><text x="500" y="320" class="lbl">🎯  Focus</text>
-    <text x="640" y="320" class="val">Computer vision for table-tennis analysis;</text>
+    <text x="640" y="320" class="val">Computer vision for table tennis analysis;</text>
     <text x="640" y="340" class="val">AutoML, deep learning &amp; trustworthy model eval.</text></g>
 
   <!-- skills -->
