@@ -21,9 +21,3 @@ My recent work includes building a table tennis referee system powered by comput
 ### 🧰 Tech I work with
 `Python` · `SQL` · `PyTorch` · `OpenCV` · `scikit-learn` · `NumPy` · `Pandas` · `C++`
 `Google Cloud` · `BigQuery` · `Cloud Run` · `Cloud Functions` · `Databricks` · `Git` · `Linux`
-
-### 📊 GitHub stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ambattuphilipalex&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambattuphilipalex&layout=compact&hide_border=true&theme=transparent" />
-</p>
