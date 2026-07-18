@@ -130,7 +130,7 @@
 
   <!-- greeting + name typing -->
   <text x="500" y="140" font-size="26" font-weight="700">
-    <tspan class="muted" font-weight="500">Hi</tspan> <tspan>👋</tspan>  <tspan class="muted" font-weight="500">I'm</tspan> <tspan class="grad name-type">Philip Alex Ambattu</tspan>
+    <tspan class="muted" font-weight="500">Hi</tspan> <tspan class="muted" font-weight="500">I'm</tspan> <tspan class="grad name-type">Philip Alex Ambattu</tspan>
   </text>
 
   <!-- role prompt (cycling) -->
